@@ -2,7 +2,7 @@
 *
 
 # But don't ignore README.md
-!snr.md
+!snr.ipynb
 
 # Don't ignore .gitignore itself
 !.gitignore
